@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shirwac Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Shirwac</h1>
 <h3 align="center">A passionate frontend and backend developer from Somalia</h3>
 <img alig="center" alt="coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
