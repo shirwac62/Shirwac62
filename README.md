@@ -3,7 +3,7 @@
 <img alig="center" alt="coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 💬 Ask me about flutter,python,flask,html
+- 💬 Ask me about Dart-flutter,Python-flask,Odoo,Html-css
 
 - 📫 How to reach me c.naafacaxmed962@gmail.com
 
